@@ -1,0 +1,50 @@
+# Project exclude paths
+/.gradle/
+/Problems/Find a word with a given length/out/
+/Problems/Find a word with a given length/out/production/classes/
+/Problems/Html Parser/out/
+/Problems/Html Parser/out/production/classes/
+/Problems/No  J/out/
+/Problems/No  J/out/production/classes/
+/Problems/Publication and its subclasses/out/
+/Problems/Publication and its subclasses/out/production/classes/
+/Problems/Publications/out/
+/Problems/Publications/out/production/classes/
+/Problems/Removing duplicates and sorting/out/
+/Problems/Removing duplicates and sorting/out/production/classes/
+/Problems/Return empty string when argument is null/out/
+/Problems/Return empty string when argument is null/out/production/classes/
+/Problems/Returning from a method/out/
+/Problems/Returning from a method/out/production/classes/
+/Problems/Safe converting/out/
+/Problems/Safe converting/out/production/classes/
+/Problems/Saying animals/out/
+/Problems/Saying animals/out/production/classes/
+/Problems/Shape hierarchy/out/
+/Problems/Shape hierarchy/out/production/classes/
+/Problems/Shapes area/out/
+/Problems/Shapes area/out/production/classes/
+/Problems/Spell checker/out/
+/Problems/Spell checker/out/production/classes/
+/Problems/Split a list into sublists/out/
+/Problems/Split a list into sublists/out/production/classes/
+/Problems/Squares list/out/
+/Problems/Squares list/out/production/classes/
+/Problems/String reverser/out/
+/Problems/String reverser/out/production/classes/
+/Problems/Ternary predicate/out/
+/Problems/Ternary predicate/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The roots of an equation/out/
+/Problems/The roots of an equation/out/production/classes/
+/Problems/Time/out/
+/Problems/Time/out/production/classes/
+/Problems/Too many cats/out/
+/Problems/Too many cats/out/production/classes/
+/Problems/Users and WebSites/out/
+/Problems/Users and WebSites/out/production/classes/
+/Text Editor/task/build/
+/Text Editor/task/out/
+/Text Editor/task/out/production/classes/
+/Text Editor/task/out/test/classes/
